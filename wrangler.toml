@@ -1,0 +1,12 @@
+name = "cf-sub-converter-test"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+compatibility_flags = ["nodejs_compat"]
+keep_vars = true
+
+[[kv_namespaces]]
+binding = "SHORT_LINKS"
+id = "84b65c9421a4471383745f3b062c6316"
+
+[observability]
+enabled = true
